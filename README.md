@@ -1,5 +1,5 @@
 # billboard_100
-Scrapes the billboard 100 songs on a given date and creates a Spotify playlist.
+This script takes an input of a date in the past, scrapes the billboard hot 100 songs on that day from the [Billboard website](https://www.billboard.com/charts/hot-100/) and creates a Spotify playlist.
 
 To use this script to make a playlist on your own Spotify account, you need to register for the Spotify API and replace the client id and client secret variables with your own credentials.
 
